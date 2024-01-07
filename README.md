@@ -8,11 +8,11 @@ We have new research on Machine Learning for Sentiment Analysis on Car Reviews f
  
 I) Negative Sentiment Detection
  
-<img src="marketing/positive-analysis">
+<img src="marketing/negative-analysis.png">
  
 II) Positive Sentiment Detection
 
-<img src="marketing/negative-analysis.png">
+<img src="marketing/positive-analysis.png">
  
 This software is very useful for Car Dealers who like to have a Python Flask Backend and a React Frontend demonstration.
 
