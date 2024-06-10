@@ -1,8 +1,8 @@
 <h1>Sentiment Analysis on Car Reviews</h1>
 
-We are Mekong IT Services, an IT organization (company) established in Calgary, Alberta, Canada.
- 
-We have new research on Machine Learning for Sentiment Analysis on Car Reviews for Vehicle Dealers, called the "Mekong Carsen" software.
+We are Foghlaim Meaisin Software, an IT organization (company) established in Calgary, Alberta, Canada.
+
+We have new research on Machine Learning for Sentiment Analysis on Car Reviews for Vehicle Dealers, called the "FM Carsen" software.
  
 <h2>These are our software demonstration</h2>
  
@@ -16,4 +16,4 @@ II) Positive Sentiment Detection
  
 This software is very useful for Car Dealers who like to have a Python Flask Backend and a React Frontend demonstration.
 
-COPYRIGHT@2023 OF MEKONG IT SERVICES, CALGARY, ALBERTA, CANADA.
+COPYRIGHT@2019 OF FOGHLAIM MEAISIN SOFTWARE, CALGARY, ALBERTA, CANADA.
