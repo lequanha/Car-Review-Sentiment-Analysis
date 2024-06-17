@@ -18,7 +18,7 @@ III) Neutral Sentiment Detection
 
 <img src="marketing/neutral-carsen.png">
 
-IV) MLflow on Databricks
+IV) MLOps : MLflow on Databricks
 
 a) Project history
 
